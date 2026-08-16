@@ -1,13 +1,13 @@
 # Zhao Hanqing TCM Prescription Dataset 2025 — Analysis Code
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21951692.svg)](https://doi.org/10.5281/zenodo.21951692)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21947836.svg)](https://doi.org/10.5281/zenodo.21947836)
 
 Analysis code accompanying the de-identified outpatient prescription dataset of
-**Professor Zhao Hanqing** (National TCM Master), Heniantang Clinic, January–December 2025.
+**Prof. Dr. Zhao Hanqing** (TCM master), Heniantang Clinic, January–December 2025.
 
 ## Dataset
 
-**DOI**: https://doi.org/10.5281/zenodo.21951692 (concept DOI; **v1.2 is the current release**, CC BY 4.0)
+**DOI**: https://doi.org/10.5281/zenodo.21947836 (concept DOI; **v1.2 is the current release**, version DOI 10.5281/zenodo.21966419; CC BY 4.0)
 
 - 335 prescriptions, 5,951 herb-level records, 122 de-identified patients
 - 438 unique herb strings with doses
@@ -52,9 +52,9 @@ writes reproducible outputs to a local `results/` directory.
 
 ## Citation
 
-Zhao, H. (2026). De-identified outpatient prescription dataset of a national TCM
-master (Zhao Hanqing, 2025): 335 prescriptions with 5,951 herb-level records
-(Version v1.2) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21951692
+ZHAO, H. (2026). De-identified outpatient prescription dataset of a TCM master
+(Dr.,Prof. Zhao Hanqing, 2025): 335 prescriptions with 5,951 herb-level records
+(Version v1.2) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21966419
 
 ## License
 
