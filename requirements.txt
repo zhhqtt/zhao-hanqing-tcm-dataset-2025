@@ -1,0 +1,11 @@
+# Validated on Python 3.12.3 (Linux x86_64), 2026-08-16.
+# Versions below are the locally tested versions; >= these is expected to work.
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.17.1
+scikit-learn==1.8.0
+networkx==3.6.1
+matplotlib==3.10.8
+mlxtend==0.24.0
+seaborn==0.13.2
+python-louvain==0.16
