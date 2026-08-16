@@ -3,7 +3,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21947836.svg)](https://doi.org/10.5281/zenodo.21947836)
 
 Analysis code accompanying the de-identified outpatient prescription dataset of
-**Prof. Dr. Zhao Hanqing** (TCM master), Heniantang Clinic, January–December 2025.
+**Prof. ZHAO Hanqing M.D., Ph.D.** (TCM master), Heniantang Clinic, January–December 2025.
 
 ## Dataset
 
@@ -53,7 +53,7 @@ writes reproducible outputs to a local `results/` directory.
 ## Citation
 
 ZHAO, H. (2026). De-identified outpatient prescription dataset of a TCM master
-(Dr.,Prof. Zhao Hanqing, 2025): 335 prescriptions with 5,951 herb-level records
+(Prof. ZHAO Hanqing M.D., Ph.D., 2025): 335 prescriptions with 5,951 herb-level records
 (Version v1.2) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.21966419
 
 ## License
