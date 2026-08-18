@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: >-
+  De-identified outpatient prescription dataset of a renowned TCM practitioner
+  (Prof. ZHAO Hanqing M.D., Ph.D., 2025): 335 prescriptions with 5,951
+  herb-level records
+authors:
+  - family-names: Zhao
+    given-names: Hanqing
+    name-particle: ""
+doi: 10.5281/zenodo.21973162
+version: v1.3.1
+date-released: "2026-08-17"
+license: CC-BY-4.0
+type: dataset
+repository-code: https://github.com/zhhqtt/zhao-hanqing-tcm-dataset-2025
+url: https://doi.org/10.5281/zenodo.21947836
+keywords:
+  - traditional Chinese medicine
+  - prescription dataset
+  - de-identified data
+  - solar terms
+  - k-anonymity
+  - herbal medicine
